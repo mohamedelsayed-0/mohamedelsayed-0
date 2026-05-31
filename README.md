@@ -1,23 +1,23 @@
 # 👋 hey! i'm mohamed
 
 <div align="center">
-  <h3>Coding • C++, Python & ML  • Math</h3>
-  <p>I write proof and I write code</p>
+  <h3>QI • C++, Python & ML  • Math</h3>
+  <p>Interested in Machine Learning, Quantum Entaglement, and Moddeling cool phenomena </p>
 </div>
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🔬 Gaussian Sim
+### Gaussian Sim
 Simulations for Gaussian distributions & failure testing for an independent research project (exploring symmetric/non-symmetric cases failures).  
 *Tech: Python, Matplotlib*
 
-### 🏗️ CIV102
-Capstone project for structural engineering course; expanded for any given cross-section analysis with outputs & failure modes.  
+### Bridge Failure Simulation
+Capstone project for structural engineering course; expanded for any given cross-section analysis with outputs & failure modes and cool visualizations.  
 *Tech: MATLAB, Python*
 
 *(Explore more in my repos!)*
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
@@ -38,16 +38,6 @@ Capstone project for structural engineering course; expanded for any given cross
 - i like to read (thelogy/history)
 - i really enjoy math/physics
 - currently self studying quantum physics/information
-
-## 🌐 Connect
-
-<div align="center">
-  <p>Open to collaboration, advice/technical discussion, or anything cool discussions about any field i'm passionate in!</p>
-  <a href="https://www.linkedin.com/in/mohamed-elsayed-b4aa02362/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mohamedessam.elsayed07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://x.com/_mohamedelsyd"><img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X" /></a>
-  <a href="https://github.com/mohamedelsayed-0"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-</div>
 
 ---
 
