@@ -1,46 +1,63 @@
 # 👋 hey! i'm mohamed
 
-<div align="center">
-  <h3>QI • C++, Python & ML  • Math</h3>
-  <p>Interested in Machine Learning, Quantum Entaglement, and Moddeling cool phenomena </p>
-</div>
+**EE @ University of Toronto | Quantum Information, ML, Hardware**
 
-## Featured Projects
-
-### Gaussian Sim
-Simulations for Gaussian distributions & failure testing for an independent research project (exploring symmetric/non-symmetric cases failures).  
-*Tech: Python, Matplotlib*
-
-### Bridge Failure Simulation
-Capstone project for structural engineering course; expanded for any given cross-section analysis with outputs & failure modes and cool visualizations.  
-*Tech: MATLAB, Python*
-
-*(Explore more in my repos!)*
-
-## Tech Stack
-
-<div align="center">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <br>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <br>
-  <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-</div>
-
-## some stuff about me:
-
-- i like to read (thelogy/history)
-- i really enjoy math/physics
-- currently self studying quantum physics/information
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-elsayed-b4aa02362/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://mohamedelsayed-0.github.io/portfolio-v2/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedessam.elsayed07@gmail.com)
 
 ---
 
+## About
 
+I'm interested in quantum information and error correction, machine learning, mathematics, and building things that relate to physics; preferably hardware (I find hands on more fun!). Currently doing research on quantum dot photovoltaic architectures and independently working on finite energy GKP qubit simulations. I also love learning math, physics, and reading theology and history.
 
+---
 
+## Featured Projects
+
+### [Entanglement Noise Budgets for Gaussian Channel Cascades](https://github.com/mohamedelsayed-0/gaussian_simulations)
+Derived closed-form recurrences for entanglement evolution through cascaded phase-insensitive Gaussian channels. Analytical limits on thermal-loss channels, quantum-limited amplifiers, and stochastic entanglement outage, validated numerically against exact symplectic-spectrum calculations.
+
+`Python` `NumPy` `Matplotlib` `Quantum Information`
+
+### [FPGA Timing Closure & Congestion Prediction](https://github.com/mohamedelsayed-0/fpga-prediction)
+GNN-based system that predicts timing closure risk, critical-path delay, and routing congestion from synthesized FPGA netlists. Automated benchmark generation with Yosys + nextpnr-ice40, leakage-safe splitting, and multi-seed evaluation.
+
+`Verilog` `Python` `PyTorch Geometric` `Yosys`
+
+### [Structural Beam Simulation](https://github.com/mohamedelsayed-0/CIV102)
+Numerical analysis of loads, supports, and boundary conditions for arbitrary beam geometries. Computes centroids, moments of inertia, bending profiles, and failure modes for custom cross-sections. Validated against analytical solutions and physical testing.
+
+`MATLAB` `Python`
+
+### [Pong AI](https://github.com/mohamedelsayed-0/Pong-AI)
+3rd place in the annual ESC180 Pong AI tournament hosted by Prof. Guerzhoy.
+
+`Python`
+
+---
+
+## Work in Progress
+
+### [GKP Thermal Recovery](https://github.com/mohamedelsayed-0/gkp-thermal-recovery)
+Finite-energy GKP qubit recovery under thermal loss channels. Numerical study of the sBs-to-Petz recovery gap.
+
+`Python` `Quantum Error Correction`
+
+### [Mechanica](https://github.com/mohamedelsayed-0/Mechanica)
+Classical and analytical mechanics implemented in PyTorch.
+
+`Python` `PyTorch`
+
+---
+
+## Tech Stack
+
+**Languages** — Python, C, C++, Verilog, Java, JavaScript, TypeScript, SQL, MATLAB, Lua
+
+**ML & Scientific** — PyTorch, PyTorch Geometric, NumPy, Pandas, Matplotlib, CUDA, ROCm
+
+**Hardware & Sim** — Lumerical, FPGA, Microcontrollers, Motor Control, Circuit Design, PCB Assembly
+
+**Tools** — Git, WSL, LaTeX
